@@ -1,7 +1,7 @@
 ## PT-BR / ENG / ESP
 ## Objetivo
 
-## Este projeto permite **alterar cores de arquivos SVG em múltiplas pastas de forma otimizada. São dois scripts disponíveis.
+## Este projeto permite alterar cores de arquivos SVG em múltiplas pastas de forma otimizada. São dois scripts disponíveis.
 ## This project allows you to change the colors of SVG files in multiple folders in an optimized way. Two scripts are available.
 ## Este proyecto permite cambiar los colores de archivos SVG en múltiples carpetas de manera optimizada. Hay dos scripts disponibles.
 
@@ -60,7 +60,7 @@ Observações
 
 
 
-## Detailed Guide – Change Color of SVG Files in Multiple Folders (Python)**
+## Detailed Guide – Change Color of SVG Files in Multiple Folders (Python)
  Purpose
 
 This project allows you to **change colors in SVG files across multiple folders efficiently**.
@@ -122,7 +122,7 @@ The script will process all folders and files, creating matching subfolders in t
 
 
 
-## Guía Detallada – Cambiar Color de Archivos SVG en Múltiples Carpetas (Python)**
+## Guía Detallada – Cambiar Color de Archivos SVG en Múltiples Carpetas (Python)
 
  Objetivo
 
@@ -212,7 +212,7 @@ Se você nunca usou o terminal no Windows, ele é chamado **Prompt de Comando** 
    python3 Mudarsvg.py
    ```
 
-> ⚠️ Dica: Se aparecer um erro dizendo que `python` não é reconhecido, significa que o Python não está adicionado ao PATH. Neste caso, instale Python 3 e marque a opção **“Add Python to PATH”** na instalação.
+>  Dica: Se aparecer um erro dizendo que `python` não é reconhecido, significa que o Python não está adicionado ao PATH. Neste caso, instale Python 3 e marque a opção **“Add Python to PATH”** na instalação.
 
 ---
 
@@ -243,7 +243,7 @@ If you have never used the terminal on Windows, it is called **Command Prompt** 
    python3 Mudarsvg.py
    ```
 
-> ⚠️ Tip: If you see an error saying `python` is not recognized, Python is not added to PATH. Install Python 3 and check **“Add Python to PATH”** during installation.
+>  Tip: If you see an error saying `python` is not recognized, Python is not added to PATH. Install Python 3 and check **“Add Python to PATH”** during installation.
 
 ---
 
@@ -274,4 +274,4 @@ Si nunca has usado el terminal en Windows, se llama **Símbolo del Sistema** o *
    python3 Mudarsvg.py
    ```
 
-> ⚠️ Consejo: Si aparece un error que dice `python` no reconocido, significa que Python no está agregado al PATH. Instala Python 3 y marca la opción **“Add Python to PATH”** durante la instalación.
+> Consejo: Si aparece un error que dice `python` no reconocido, significa que Python no está agregado al PATH. Instala Python 3 y marca la opción **“Add Python to PATH”** durante la instalación.
