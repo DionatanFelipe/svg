@@ -1,8 +1,9 @@
 ## PT-BR / ENG / ESP
 ## Objetivo
 
-Este projeto permite **alterar cores de arquivos SVG em múltiplas pastas de forma otimizada**.
-São dois scripts disponíveis:
+## Este projeto permite **alterar cores de arquivos SVG em múltiplas pastas de forma otimizada. São dois scripts disponíveis.
+## This project allows you to change the colors of SVG files in multiple folders in an optimized way. Two scripts are available.
+## Este proyecto permite cambiar los colores de archivos SVG en múltiples carpetas de manera optimizada. Hay dos scripts disponibles.
 
 1. **MudarCorSVG.ipynb** – Para ser rodado no **modo Jupyter Notebook**, com instruções internas.
 2. **Mudarsvg.py** – Para ser rodado via terminal com `python3 Mudarsvg.py`, solicitando interativamente:
