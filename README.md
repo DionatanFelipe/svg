@@ -1,3 +1,4 @@
+## PT-BR / ENG / ESP
 ## Objetivo
 
 Este projeto permite **alterar cores de arquivos SVG em múltiplas pastas de forma otimizada**.
